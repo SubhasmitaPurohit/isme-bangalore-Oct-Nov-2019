@@ -7,7 +7,7 @@
 
 ## My Blog
 
-Think ML - https://goodboyanush.github.io/
+Think ML - https://medium.com/@subhasmitap.isme1820/building-a-ml-mindset-73da46bf65ac
 
 ## Course Overview
 
