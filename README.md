@@ -7,7 +7,7 @@
 
 ## My Blog
 
-Think ML - https://medium.com/@subhasmitap.isme1820/building-a-ml-mindset-73da46bf65ac
+Think ML - https://medium.com/@subhasmitap.isme1820/building-a-ml-mindset-73da46bf65achttps://medium.com/p/358f2a39508f/edit
 
 ## Course Overview
 
