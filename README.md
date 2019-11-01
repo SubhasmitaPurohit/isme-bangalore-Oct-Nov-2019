@@ -7,7 +7,7 @@
 
 ## My Blog
 
-Think ML -https://medium.com/@subhasmitap.isme1820/linear-regression-vs-logistic-regression-358f2a39508f
+Think ML -https://medium.com/@subhasmitap.isme1820c
 
 ## Course Overview
 
