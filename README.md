@@ -7,7 +7,7 @@
 
 ## My Blog
 
-Think ML -https://medium.com/@subhasmitap.isme1820c
+Think ML -https://github.com/SubhasmitaPurohit/Foundation-Of-Machine-Learning/blob/master/MLPage_blocks.html
 
 ## Course Overview
 
