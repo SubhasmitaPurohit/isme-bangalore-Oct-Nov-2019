@@ -7,8 +7,8 @@
 
 ## My Blog
 
-Think ML -https://github.com/SubhasmitaPurohit/Foundation-Of-Machine-Learning/blob/master/Page_Blocks_Report.py
-https://github.com/SubhasmitaPurohit/Foundation-Of-Machine-Learning/blob/master/MLPage_blocks.html
+Think ML -https://github.com/SubhasmitaPurohit/Foundation-Of-Machine-Learning/blob/master/Jungle_Chase_Rat%26Elephant.ipynb
+https://github.com/SubhasmitaPurohit/Foundation-Of-Machine-Learning/blob/master/Jungle_Chase_Rat%26Elephant.pdf
 
 ## Course Overview
 
